@@ -1,0 +1,211 @@
+12-10-2017 16:56:17 INFO [main] App - Logging initialised
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:56:17 DEBUG [main] BinaryTreeSearch - message
+12-10-2017 16:57:24 INFO [main] App - Logging initialised
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 7 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 3 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 5 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 6 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 18 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 16:57:24 DEBUG [main] BinaryTreeSearch - adding element: 20 to the list
+12-10-2017 16:59:44 INFO [main] App - Logging initialised
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 7 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - ROOT NODE: com.m3c.wgk.Node@12edcd21
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 3 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 5 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 6 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 18 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 4
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - adding element: 20 to the list
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 16:59:44 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 17:08:26 INFO [main] App - Logging initialised
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 7 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created7
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - ROOT NODE: com.m3c.wgk.Node@12edcd21
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 3 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created3
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created12
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created12
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:26 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created12
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:26 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 5 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created5
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 6 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created6
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created4
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 18 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created18
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created12
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:26 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created4
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 4
+12-10-2017 17:08:26 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - adding element: 20 to the list
+12-10-2017 17:08:26 DEBUG [main] Node - Node Created20
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 17:08:26 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 17:08:45 INFO [main] App - Logging initialised
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 7 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 7
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - ROOT NODE: com.m3c.wgk.Node@12edcd21
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 3 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 3
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:45 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:45 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 5 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 5
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 6 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 6
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 4
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 18 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 18
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:45 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 4
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 4
+12-10-2017 17:08:45 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - adding element: 20 to the list
+12-10-2017 17:08:45 DEBUG [main] Node - Node Created: 20
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 17:08:45 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 17:10:25 INFO [main] App - Logging initialised
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 7 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 7
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - ROOT NODE: com.m3c.wgk.Node@12edcd21
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 3 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 3
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:10:25 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:10:25 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 5 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 5
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 6 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 6
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 4
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 18 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 18
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 12
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:10:25 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 4
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 4
+12-10-2017 17:10:25 ERROR [main] BinaryTreeSearch - Duplicate Exception
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - adding element: 20 to the list
+12-10-2017 17:10:25 DEBUG [main] Node - Node Created: 20
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 12
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 7
+12-10-2017 17:10:25 DEBUG [main] BinaryTreeSearch - looking for element: 7
+13-10-2017 08:59:39 INFO [main] App - Logging initialised
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 7 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 7
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - ROOT NODE: com.m3c.wgk.Node@12edcd21
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 3 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 3
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 12
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 12
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 12
+13-10-2017 08:59:39 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 12
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 12
+13-10-2017 08:59:39 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 5 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 5
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 6 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 6
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 4
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 18 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 18
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 12 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 12
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 12
+13-10-2017 08:59:39 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 4 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 4
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 4
+13-10-2017 08:59:39 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - adding element: 20 to the list
+13-10-2017 08:59:39 DEBUG [main] Node - Node Created: 20
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 12
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 7
+13-10-2017 08:59:39 DEBUG [main] BinaryTreeSearch - looking for element: 7
+13-10-2017 08:59:56 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:56 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:56 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 08:59:56 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:00:16 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:00:16 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:00:16 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:00:16 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:02:37 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:02:37 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:02:37 ERROR [main] BinaryTreeSearch - Duplicate Exception
+13-10-2017 09:02:37 ERROR [main] BinaryTreeSearch - Duplicate Exception
+16-10-2017 09:45:43 ERROR [main] BinaryTreeSearch - Duplicate Exception
+16-10-2017 09:45:43 ERROR [main] BinaryTreeSearch - Duplicate Exception
+16-10-2017 09:45:43 ERROR [main] BinaryTreeSearch - Duplicate Exception
+16-10-2017 09:45:43 ERROR [main] BinaryTreeSearch - Duplicate Exception
